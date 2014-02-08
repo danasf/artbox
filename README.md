@@ -1,14 +1,13 @@
 Artbox
 ================================
 
+![artbox](https://github.com/danasf/artbox/img/artbox-logo.png)
+
 Turn your dated, OpenWRT capable router into a platform for hosting browser-based, interactive web art. 
 
 A tool for activists, artists, protests, public events, location specific installations and more.
 
 Please contribute!
-
-![artbox](https://github.com/danasf/artbox/img/artbox-logo.png)
-
 
 Instructions
 ------------
