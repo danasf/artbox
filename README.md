@@ -1,7 +1,7 @@
 Artbox
 ================================
 
-![artbox](https://github.com/danasf/artbox/img/artbox-logo.png)
+![artbox](https://raw2.github.com/danasf/artbox/master/img/artbox-logo.png)
 
 Turn your dated, OpenWRT capable router into a platform for hosting browser-based, interactive web art. 
 
