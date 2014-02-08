@@ -7,6 +7,8 @@ A tool for activists, artists, protests, public events, location specific instal
 
 Please contribute!
 
+![artbox](https://github.com/danasf/artbox/img/artbox-logo.png)
+
 
 Instructions
 ------------
