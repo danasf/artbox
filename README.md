@@ -12,17 +12,18 @@ Please contribute!
 Instructions
 ------------
 
-1. Install [OpenWRT](https://openwrt.org/)
+Install [OpenWRT](https://openwrt.org/)
+(edit the files below with VIM or use SCP and your favorite client to transfer them)
 
-2. Configure Wireless and Network 
+Configure Wireless and Network 
 (in LuCI) or edit /etc/config/network & /etc/config/wireless
 
-3. Make dnsmasq redirect all
+Make dnsmasq redirect all
 edit /etc/dnsmasq.conf
 ```
 address=/#/10.10.0.2
 ```
-4. Move LuCI from port 80 
+Move LuCI from port 80 
 edit /etc/config/uhttpd
 ```
 # Artbox
@@ -37,7 +38,7 @@ config uhttpd secondary
     option home        /www
     option cgi_prefix     /cgi-bin
 ```
-5. Create your HTML, image, JS, script files in /artbox
+Create your HTML, image, JS, script files in /artbox
 ```
 <!DOCTYPE html>
 <html lang="en">
